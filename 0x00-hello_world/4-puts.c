@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main . Program for Hello puts
+ * main . Entry point
  *
  * Return: 0 (Success)
  */
