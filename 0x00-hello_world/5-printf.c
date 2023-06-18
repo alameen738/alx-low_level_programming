@@ -1,10 +1,11 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main . A program to print Programming is like building a multilingual puzzle
- * return 0 (Succeses)
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	print("with proper grammar, but the outcome is a piece of art,\n")
-	return (0);
+print("with proper grammar, but the outcome is piece of art,\n")
+return (0);
 }
