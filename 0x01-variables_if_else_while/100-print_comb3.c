@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 /**
  * main - prints all possible different combinations of two digits
  * Return: ALways 0 (Success)
@@ -29,7 +28,6 @@ if (n != 56 || m != 57)
 putchar(',');
 
 putchar(' ');
-
 }
 }
 
