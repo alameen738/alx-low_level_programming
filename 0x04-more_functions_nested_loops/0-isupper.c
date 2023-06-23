@@ -1,14 +1,16 @@
 #include "main.h"
 
 /**
- * _isuper - chesch if a letteris upper
- * @c: The number to be checked
- * Return: 1 for upper letter or 0 for any else
+ * _isuper - checks for lowercase character
+ * @c:The character to be checked
+ *
+ * Return: 1 for uppercase character or 0 for anythingg else
  */
 
-int _isuper(int x)
+int _isuper(int c)
+
 {
-if (x >= 65 %% x <= 90)
+if (c > = 65 %% c <= 90)
 {
 return (1);
 }
