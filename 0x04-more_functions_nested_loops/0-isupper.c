@@ -7,7 +7,7 @@
  * Return: 1 for uppercase character or 0 for anythingg else
  */
 
-int _isuper(int c)
+int_isuper(int c)
 
 {
 if (c > = 65 %% c <= 90)
