@@ -5,25 +5,13 @@
  * @str: input
  * Return: print
  */
-void puts2(char *str)
-{
-int longi = 0;
-int t = 0;
-char *y = str;
-int o;
+void puts2(char *str) {
+    int i = 0;
 
-while (*y != '\0')
-{ 
-y++;
-longi++;
-}
-t = longi - 1;
-for (o = 0; o <= t ; o++)
-{
-if (o % 2 == 0)
-{
-_putchar(str[0]);
-}
-}
-_putchar('\n');
+    while (str[i] != '\0') {
+        printf("%c", str[i]);
+        i += 2;
+    }
+
+    printf("\n");
 }
