@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - check the code
  *
@@ -13,3 +12,4 @@ int main(void)
     puts2(str);
     return (0);
 }
+
