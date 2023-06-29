@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strcmp - function that compares two strings
+ * reverse_array - function that reverses the content of an array of integers
  * @a: array
  * @n: number of element of array
  * Return: void
