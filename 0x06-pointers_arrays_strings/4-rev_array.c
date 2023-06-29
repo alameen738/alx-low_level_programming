@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * reverse_array - function that reverses the content of an array of integers
+ * reverse_array - reverses the array of integers
  * @a: array
  * @n: number of element of array
  * Return: void
