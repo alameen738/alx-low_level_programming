@@ -1,12 +1,10 @@
 #include "main.h"
-
 /**
  * _strcmp - function that compares two strings
  * @a: array
  * @n: number of element of array
  * Return: void
  */
-
 void reverse_array(int *a, int n)
 {
 
