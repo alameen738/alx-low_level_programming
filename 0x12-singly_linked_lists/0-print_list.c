@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "lists.h"
 
-
 /**
  * print_list - Print the elements of the linked list
  * @h: Pointer to the list_t
@@ -24,5 +23,4 @@ h = h->next;
 s++;
 }
 return (s);
-
 }
