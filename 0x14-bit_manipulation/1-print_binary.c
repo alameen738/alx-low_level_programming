@@ -14,7 +14,7 @@ unsigned long int current;
 for (w = 63; w >= 0; w--)
 {
 current = n >> w;
- if (current & 1)
+if (current & 1)
 {
 _putchar('1');
 count++;
