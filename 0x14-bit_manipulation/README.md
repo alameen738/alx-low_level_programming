@@ -1,1 +1,1 @@
-Bit manipulation is a powerful technique that enables programmers to work directly with the binary representation of data. By using bitwise operators, you can perform operations on individual bits, making it possible to optimize memory usage and improve performance.
+Bit manipulation is a powerful technique that enables programmers to work directly with the binary representation of data. By using bitwise operators, you can perform operations on individual bits, making it possible to optimize memory usage and improve performance..
