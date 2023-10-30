@@ -6,7 +6,7 @@
  * @filename: The file name.
  * @text_content: The text content.
  *
- * Return: REturn (fails) if success or (NULL - -1).
+ * Return: Return (fails) if success or (NULL - -1).
  */
 
 int append_text_to_file(const char *filename, char *text_content)
